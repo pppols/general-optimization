@@ -5,6 +5,7 @@
 the framework is intended to provide the necessary components to easily set up and solve such problems without needing to worry about underlying mechanisms, with instead having *optional* parameters to interface with if required.
 
 
+
 ## features
 
 the **general-optimization** framework intends to provide:
@@ -15,9 +16,11 @@ the **general-optimization** framework intends to provide:
 - an automatic differentiation system for simple problems
 
 
+
 ## usage
 
 todo
+
 
 
 ## todo
