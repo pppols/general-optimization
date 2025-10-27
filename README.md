@@ -27,7 +27,6 @@ todo
 
 sooner:
 
-- rewrite `components` (rename to \library)
 - finish `minimization problem` definitions
 - implement simple krylov subspace methods
 - implement newton rhapson on method of lagrange multipliers
