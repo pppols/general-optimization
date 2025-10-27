@@ -1,3 +1,4 @@
+require('library.vector')
 require('library.matrix')
 
 lil_matrix = {
